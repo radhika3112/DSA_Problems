@@ -19,4 +19,4 @@ function decompressRLElist(nums) {
     }
     return output
 };
-console.log()
+console.log(decompressRLElist(nums))
